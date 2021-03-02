@@ -1,0 +1,33 @@
+// 1° questão
+var num: Int
+num = 4
+
+var total: Int = 5
+
+var resultado = 6
+
+// 2° questão
+var carName: String = "Automovel"
+var carCode: Int = 4635687
+var preco: Double = 47.567
+var clienteNome: String = "Antônieta"
+var enderecoCliente = "Rua dos Bobos, nº 0"
+
+// 3° questão
+
+//Digita anotações em Swift e outros tipos de variáveis recebidas, como strings, ints, etc.
+
+// 4° questão
+
+var int: Int = 2
+var double: Double = 2.2
+var text = String(double) + " " + String(int)
+print (text)
+
+// 5° questão
+
+//safety:
+//É uma linguagem que o incentiva a especificação dos tipos de variáveis.
+
+//inference:
+//O tipo da variável não possui especificações, e a linguagem irá assumir o tipo da variável com base no valor seguido.
